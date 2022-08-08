@@ -74,7 +74,7 @@ const apis = [
     "https://apibay.org",
     "https://thepiratebay.gl/api.php?url="
 ];
-let apisChecked = 1;
+let apisChecked = 0;
 let api = "https://apibay.org";
 let foundApi = false;
 
